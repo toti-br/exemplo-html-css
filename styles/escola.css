@@ -1,0 +1,39 @@
+h2 {
+     color: green;
+ }
+
+
+ .pipoca {
+     color: red;
+     background-color: aliceblue;
+ }
+
+ .sublinhado {
+     text-decoration: underline;
+ }
+
+ #titulo-principal {
+     font-size: 24px;
+ }
+
+ body {
+     margin: 0;
+ }
+
+ .flex-container {
+     display: flex;
+     justify-content: center;
+ }
+
+ .col {
+     padding: 0 10px;
+     box-sizing: border-box;
+ }
+
+ .col-60 {
+     width: 60%;
+ }
+
+ .col-40 {
+     width: 40%;
+ }
